@@ -1,0 +1,16 @@
+/* theme3.css */
+.app-container.theme3 {
+    background-color: #ffcc00;
+    color: #333;
+  }
+  
+  .theme3 h1 {
+    color: #333;
+  }
+  
+  .theme3 .content {
+    border: 1px solid #333;
+    background-color: #ffcc00;
+    color: #333;
+  }
+  

@@ -1,0 +1,14 @@
+/* theme1.css */
+.app-container.theme1 {
+    background-color: #f1f1f1;
+    color: #333;
+  }
+  
+  .theme1 h1 {
+    color: #333;
+  }
+  
+  .theme1 .content {
+    border: 1px solid #333;
+  }
+  
